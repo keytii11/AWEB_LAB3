@@ -1,0 +1,15 @@
+.navbar-brand{
+    margin-left: 100px;
+    margin-right: 33%;
+}
+/* navbar-nav{
+    gap: 100px;
+    
+} */
+
+.image-fluid{
+    width: 100%;
+    height: auto;
+  
+}
+
